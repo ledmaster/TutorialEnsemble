@@ -20,3 +20,5 @@ So in this article I want to exemplify the best way I know of creating ensembles
 
 Notebook : <a href="HomePrices-English.ipynb">English |</a>
 <a href="HomePrices.ipynb">Portuguese</a>
+
+Special thanks to <a href="https://github.com/girishkuniyal">@girishkuniyal</a> for translating the material to English.
